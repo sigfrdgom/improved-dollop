@@ -12,8 +12,7 @@ de la materia PRN235
     *- En dado caso la guia no se pueda completar esta se dejara para llevar y se acordara un tiempo para su entrega, cuando mucho
       este sera de 3 dias habiles dependiendo la dificultad de la asignacion.
 3. Se tomara asistencia durante cada laboratorio.
-4. En casos fortutitos que el laboratorio no se puede llevar a cabo el dia especificado(asueto, etc) la guia sera dejada para llevar
-    dudas y consultas pueden realizarse en la siguiente sesion.
+4. En casos fortutitos que el laboratorio no se puede llevar a cabo el dia especificado(asueto, etc) la guia sera dejada para llevar dudas y consultas pueden realizarse en la siguiente sesion.
 5. Favor mantener el orden en las sesiones de laboratorio
 6. Familiarizarse con las herramientas de trabajo listadas a continuacion.
     *IDE puede ser eclipse, netbeans o productos de JetBrains (Basico)
