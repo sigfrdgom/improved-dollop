@@ -6,8 +6,11 @@ de la materia PRN235
 
 1. Los grupos de instructoria estan conformados de la siguiente manera.
   G1 MARTES 10:05 A 10:55 LC2 G2 10:05 A 10:55 LC2 G3 10:55 A 11:45
-2. La distribucion del 15% asiganado a los laboratorios se discutira abiertamente en el primer laboratorio, y se publicara
-    acorde a los 3 grupos en este documento a mas tardar el 24 de febrero
+2. La distribucion del 15% asignado a los laboratorios queda de la siguiente manera:
+    *- La asistencia contara y sera evaluada.
+    *- Se trabajara en guias dentro del laboratorio y dichas aisgnaciones seran revisadas durante el laboratorio.
+    *- En dado caso la guia no se pueda completar esta se dejara para llevar y se acordara un tiempo para su entrega, cuando mucho
+      este sera de 3 dias habiles dependiendo la dificultad de la asignacion.
 3. Se tomara asistencia durante cada laboratorio.
 4. En casos fortutitos que el laboratorio no se puede llevar a cabo el dia especificado(asueto, etc) la guia sera dejada para llevar
     dudas y consultas pueden realizarse en la siguiente sesion.
